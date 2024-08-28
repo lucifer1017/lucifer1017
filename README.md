@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything )**
 
-⚡ Here's a joke **I went for something to eat with my friend who's an electrician...
+⚡ Here's a joke: **I went for something to eat with my friend who's an electrician...
 I was having my starter but he went straight to the mains!**
 
  </div>
