@@ -39,7 +39,7 @@ I was having my starter but he went straight to the mains!**
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwindcss,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c++,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
