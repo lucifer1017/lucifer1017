@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **dApps!!**
+ 🔭 I’m currently working on **dApps,Smart Contract Security!!**
  
  🌱 I’m currently learning **Rust,WebSocket, GraphQL, AWS**
 
-💬 Ask me about **Solidity, Hardhat,Viem/Wagmi, Firebase... or anything )**
+💬 Ask me about **Solidity, Hardhat,Viem/Wagmi ... or anything )**
 
 ⚡ Here's a joke: **I went for something to eat with my friend who's an electrician...
 I was having my starter but he went straight to the mains!**
